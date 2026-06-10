@@ -23,6 +23,7 @@ CSE undergrad at **VIT Vellore** building at the intersection of
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -40,6 +41,9 @@ Order flow imbalance features + Transformer models for sub-second price predicti
 
 📉 **[nifty-vol-forecast](https://github.com/manavmishra-cloud/nifty-vol-forecast)** *(in progress)*  
 Realized volatility forecasting on NIFTY 50 — transformer models vs. GARCH-family baselines.
+
+🧭 **[vex](https://github.com/manavmishra-cloud/vex)** *(in progress)*  
+A vector database from scratch in Rust with HNSW indexing and an interactive web visualizer.
 
 ---
 
